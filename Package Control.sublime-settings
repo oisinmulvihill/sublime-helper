@@ -22,6 +22,15 @@
 		"SVN",
 		"Tag",
 		"Theme - Soda",
-        "JsFormat"
+        "JsFormat",
+
+        "AAAPackageDev",
+        "Clipboard History",
+        "CTags",
+        "INI",
+        "Jinja2",
+        "Python Pep8 Lint",
+        "Sublime File Navigator",
+        "Whitespaces"
 	]
 }
