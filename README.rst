@@ -1,4 +1,6 @@
-**Note**
+
+**Oisin Mulvihill Note**
+------------------------
 
 My fork of sublime-helper in an attempt to synchronise sublime text instances
 across the machines I work on.
