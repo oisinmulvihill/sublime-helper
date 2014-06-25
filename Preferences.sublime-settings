@@ -67,10 +67,15 @@
     [
         "E501"
     ],
-    "font_size": 16,
     "soda_retina_fix": true,
     "tab_size": 4,
     "translate_tabs_to_spaces": true,
     "trim_automatic_white_space": true,
-    "trim_trailing_white_space_on_save": true
+    "trim_trailing_white_space_on_save": true,
+
+    // Sets the colors used within the text area
+    "color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+    "font_size": 16,
+    "rulers": [79, 100]
+
 }
