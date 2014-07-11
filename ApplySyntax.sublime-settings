@@ -58,6 +58,12 @@
             ]
         },
         {
+            "name": "Jinja2/Jinja2",
+            "rules": [
+                {"file_name": ".*\\.(sls)"}
+            ]
+        },
+        {
             // The Cucumber and RSpec rules come before Rails and Ruby because they end
             // in .rb and will be identified as Rails or Ruby otherwise.
             "name": "Cucumber/Cucumber Steps",
