@@ -247,7 +247,7 @@
             "name": "MATLAB/MATLAB",
             "rules": [
                 {"file_name": ".*\\.(m)"},
-                {"binary": "python"}
+                {"binary": "octave"}
             ]
 
 	}
